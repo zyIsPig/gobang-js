@@ -1,0 +1,19 @@
+.ui-button{
+    background-color: rgba(122, 184, 255, 0.5);
+    font-size: 24px;
+    border-radius: 4px;
+    opacity: 0.8;
+    border: cornflowerblue;
+    font-weight: lighter;
+    /*box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);*/
+
+
+}
+.ui-button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#imgdiv{
+    display: none;
+
+}
